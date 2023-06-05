@@ -1,0 +1,85 @@
+.post_css1{
+background:#ddd;
+color:black;
+border:none;
+padding:10px;
+border-radius:20%;
+}
+
+
+.post_css1:hover{
+background:orange;
+color:black;
+
+
+}
+
+
+
+.help_css{
+background:#ddd;
+color:black;
+border:none;
+padding:6px;
+border-radius:20%;
+font-size:14px;
+}
+
+
+.help_css:hover{
+background:orange;
+color:black;
+
+
+}
+
+
+
+
+.xcx1{
+background-color: #ccc;
+padding: 2px;
+color:black;
+font-size:14px;
+border-radius: 10%;
+border: none;
+//cursor: pointer;
+text-align: center;
+height:280px;
+
+}
+.xcx1:hover {
+background: orange;
+color:white;
+}	
+
+
+.buy_btn1{
+background: #1569C7;
+color:white;
+padding:10px;
+border-radius:15%;
+
+}
+
+
+.buy_btn1:hover {
+background: black;
+color:pink;
+}
+
+
+.buy_btn2{
+background: #800000;
+color:white;
+padding:10px;
+border-radius:15%;
+
+}
+
+
+.buy_btn2:hover {
+background: black;
+color:pink;
+}
+

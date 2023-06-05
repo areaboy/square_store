@@ -1,0 +1,9 @@
+{
+  "name": "Square Digital Store",
+  "description": "Buy and Sell Video Content using Square API",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["webNavigation"],
+  "action": { "default_popup": "popup.html" },
+"background": { "service_worker": "background.js" }
+}
